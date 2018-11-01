@@ -1,4 +1,6 @@
 # JavaScript
 JavaScript Reference Guide
-
-File Extension: .js
+- ES6
+- jQuery
+- JSON
+- AJAX
